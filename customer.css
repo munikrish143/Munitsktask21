@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(56, 117, 230);
+    font-weight: bolder;
+    font-size: 1.2rem;
+   
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color:white!important;
+}
+
+.navbar-brand{
+    font-family: 'Impact' , Impact;
+    font-size: 3rem;
+    color: #080808!important;
+    font-weight: bold;
+}
+
+.nav-link{
+    color: #03070c!important;
+    font-size: 3rem;
+    font-family: 'Lucida Sans' , Lucida Sans Regular;
+    font-weight: bold;
+    
+    
+}
+
+.nav-link:hover{
+    background-color: #b2d630;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    font-family: 'Arial',Arial;
+    padding: 1rem 2rem;
+    background-color:rgb(14, 13, 13) !important;
+    color: rgb(132, 250, 240)!important;
+    margin-left: 5px;
+    padding: 1.2rem;
+    transition: all 0.3s;
+    font-weight: 900;
+}
+
+.btn-info:hover{
+    background-color: rgb(194, 194, 24)!important;
+}
